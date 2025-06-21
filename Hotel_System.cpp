@@ -1,6 +1,4 @@
-// فضل الله مجدى عبدالوهاب 20246081
-// يوسف محمد شاكر خطيب 20246136
-// احمد محمد ضهاب عطيه 20246009
+// made by FadlAllah Magdy
 #include <iostream>
 #include <string>
 using namespace std;
